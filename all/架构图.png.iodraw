@@ -533,7 +533,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-316" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#b85450&quot;&gt;效率提升&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="780" y="1210" width="60" height="110" as="geometry" />
+          <mxGeometry x="750" y="1169" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
