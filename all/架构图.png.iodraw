@@ -355,7 +355,7 @@
             <mxPoint x="570" y="1460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-246" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-246" value="&lt;b style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 15px;&quot;&gt;面向扩散模型预训练的联邦学习隐私保护协议&lt;/span&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;联邦学习训练隐私保护&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="1580" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-248" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;安全假设&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
