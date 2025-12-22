@@ -367,19 +367,19 @@
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-250" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;保护对象&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="1880" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=#9673a6;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fillColor=#e1d5e7;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jCbjzDpZ-cm63IOYhHo_-265" target="jCbjzDpZ-cm63IOYhHo_-271">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=#9673a6;fontStyle=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fillColor=#e1d5e7;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jCbjzDpZ-cm63IOYhHo_-265" target="jCbjzDpZ-cm63IOYhHo_-271">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="499.07115942028963" y="1710" as="sourcePoint" />
-            <mxPoint x="558.9262318840579" y="1710" as="targetPoint" />
+            <mxPoint x="499.1411594202896" y="1720" as="sourcePoint" />
+            <mxPoint x="558.9962318840579" y="1720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=#9673a6;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;" edge="1" parent="1" source="jCbjzDpZ-cm63IOYhHo_-266" target="jCbjzDpZ-cm63IOYhHo_-272">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=#9673a6;fontStyle=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;" edge="1" parent="1" source="jCbjzDpZ-cm63IOYhHo_-266" target="jCbjzDpZ-cm63IOYhHo_-272">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="514" y="1742.5" as="sourcePoint" />
             <mxPoint x="570" y="1742.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=#9673a6;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;" edge="1" parent="1" source="jCbjzDpZ-cm63IOYhHo_-267" target="jCbjzDpZ-cm63IOYhHo_-273">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=#9673a6;fontStyle=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;" edge="1" parent="1" source="jCbjzDpZ-cm63IOYhHo_-267" target="jCbjzDpZ-cm63IOYhHo_-273">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="513.93" y="1820" as="sourcePoint" />
             <mxPoint x="569.93" y="1820" as="targetPoint" />
@@ -391,16 +391,16 @@
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-264" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;关键研究点&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="1630" width="220" height="44.44444444444444" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-265" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span style=&quot;font-weight: 400; text-align: left;&quot;&gt;门限联合解密方法&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#e1d5e7;strokeColor=none;fontStyle=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="319.926231884058" y="1689.9966666666667" width="180" height="40" as="geometry" />
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-265" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;门限联合解密方法&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#e1d5e7;strokeColor=none;fontStyle=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="319.996231884058" y="1699.9966666666667" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-266" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span style=&quot;font-weight: 400; text-align: left; background-color: initial;&quot;&gt;高效&lt;/span&gt;&lt;span style=&quot;font-weight: 400; text-align: left;&quot;&gt;批量打包加密&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#e1d5e7;strokeColor=none;fontStyle=1;container=0;" vertex="1" parent="1">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-266" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;高效&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;批量打包加密&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#e1d5e7;strokeColor=none;fontStyle=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="319.996231884058" y="1772.5044444444445" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-267" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span style=&quot;font-weight: 400; text-align: left;&quot;&gt;定点化精度与溢出控制&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#e1d5e7;strokeColor=none;fontStyle=1;container=0;" vertex="1" parent="1">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-267" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;定点化精度与溢出控制&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#e1d5e7;strokeColor=none;fontStyle=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="319.926231884058" y="1840.0022222222221" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-268" value="&lt;span style=&quot;font-weight: 400; text-align: left;&quot;&gt;隐私边界评估&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#e1d5e7;strokeColor=none;fontStyle=1;container=0;" vertex="1" parent="1">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-268" value="&lt;span style=&quot;text-align: left;&quot;&gt;隐私边界评估&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#e1d5e7;strokeColor=none;fontStyle=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="319.996231884058" y="1910.0022222222224" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-269" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#9673a6;fillColor=none;fontStyle=1;container=0;" vertex="1" parent="1">
@@ -409,19 +409,19 @@
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-270" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;关键难点&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="1630" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-271" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span style=&quot;font-weight: 400; text-align: left;&quot;&gt;合谋窃取聚合结果&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#e1d5e7;strokeColor=none;fontStyle=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="559.9962318840579" y="1690" width="180" height="40" as="geometry" />
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-271" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;合谋窃取聚合结果&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#e1d5e7;strokeColor=none;fontStyle=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="560.066231884058" y="1700" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-272" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span style=&quot;font-weight: 400; text-align: left;&quot;&gt;Paillier加密开销爆炸&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#e1d5e7;strokeColor=none;fontStyle=1;container=0;" vertex="1" parent="1">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-272" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Paillier加密开销爆炸&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#e1d5e7;strokeColor=none;fontStyle=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="559.9962318840579" y="1772.5" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-273" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span style=&quot;font-weight: 400; text-align: left;&quot;&gt;整数域映射溢出风险&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#e1d5e7;strokeColor=none;fontStyle=1;container=0;" vertex="1" parent="1">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-273" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;整数域映射溢出风险&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#e1d5e7;strokeColor=none;fontStyle=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="559.9262318840579" y="1840" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-274" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span style=&quot;font-weight: 400; text-align: left;&quot;&gt;跨轮次日志推断攻击&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#e1d5e7;strokeColor=none;fontStyle=1;container=0;" vertex="1" parent="1">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-274" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;跨轮次日志推断攻击&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#e1d5e7;strokeColor=none;fontStyle=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="559.9962318840579" y="1910" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=#9673a6;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;" edge="1" parent="1" source="jCbjzDpZ-cm63IOYhHo_-268" target="jCbjzDpZ-cm63IOYhHo_-274">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=#9673a6;fontStyle=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;" edge="1" parent="1" source="jCbjzDpZ-cm63IOYhHo_-268" target="jCbjzDpZ-cm63IOYhHo_-274">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="1880" as="sourcePoint" />
             <mxPoint x="570" y="1880" as="targetPoint" />
