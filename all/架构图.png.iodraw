@@ -361,7 +361,7 @@
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-204" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="1510" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-205" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-205" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#9673a6;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="1560" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-206" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;安全假设&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
@@ -373,7 +373,7 @@
             <mxPoint x="215" y="1625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-208" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-208" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#9673a6;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="1710" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-209" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;保护对象&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
