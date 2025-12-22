@@ -166,7 +166,7 @@
             <mxPoint x="570" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-139" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;安全跨注意力机制&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#d79b00;fillColor=#ffe6cc;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-139" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman Regular&amp;quot;;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;基于同态加密的隐私保护扩散模型&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#82b366&quot;&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#82b366&quot;&gt;客户端-服务器推理&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#d79b00;fillColor=#ffe6cc;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="810" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-140" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#d79b00;fillColor=none;fontStyle=1" vertex="1" parent="1">
