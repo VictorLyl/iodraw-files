@@ -349,13 +349,13 @@
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-200" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;关键难点&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-198">
           <mxGeometry width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-201" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Softmax同态不友好&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-198">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-201" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Softmax同态不友好&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#e1d5e7;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-198">
           <mxGeometry x="19.92623188405797" y="60" width="180.1449275362319" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-202" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;乘法深度不足&amp;amp;噪声累加&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-198">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-202" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;乘法深度不足&amp;amp;噪声累加&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#e1d5e7;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-198">
           <mxGeometry x="19.92623188405797" y="130" width="180.1449275362319" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-203" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;模型参数泄漏&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-198">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-203" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;模型参数泄漏&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#e1d5e7;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-198">
           <mxGeometry x="19.92623188405797" y="200" width="180.1449275362319" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-204" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1" vertex="1" parent="1">
