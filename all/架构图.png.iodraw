@@ -284,22 +284,22 @@
           <mxGeometry x="80" y="1420" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-184" value="" style="group;fillColor=none;strokeColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="300" y="1210" width="220" height="270" as="geometry" />
+          <mxGeometry x="300" y="1210" width="220" height="300" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-185" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#b85450;fillColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-184">
-          <mxGeometry width="220" height="270" as="geometry" />
+          <mxGeometry width="220" height="300" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-186" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;关键方法&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-184">
-          <mxGeometry width="220" height="40" as="geometry" />
+          <mxGeometry width="220" height="44.44444444444444" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-187" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;分布式扩散模型架构&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#f8cecc;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-184">
-          <mxGeometry x="19.92623188405797" y="60" width="180.1449275362319" height="40" as="geometry" />
+          <mxGeometry x="19.92623188405797" y="66.66666666666667" width="180.1449275362319" height="44.44444444444444" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-188" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;共享比例算法&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#f8cecc;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-184">
-          <mxGeometry x="19.92623188405797" y="130" width="180.1449275362319" height="40" as="geometry" />
+          <mxGeometry x="19.92623188405797" y="144.44444444444446" width="180.1449275362319" height="44.44444444444444" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-189" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;语义相似度算法&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#f8cecc;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-184">
-          <mxGeometry x="19.92623188405797" y="200" width="180.1449275362319" height="40" as="geometry" />
+          <mxGeometry x="19.92623188405797" y="222.22222222222223" width="180.1449275362319" height="44.44444444444444" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=#b85450;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fillColor=#f8cecc;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
