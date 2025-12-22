@@ -7,23 +7,8 @@
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-138" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;dashPattern=1 1;strokeColor=#d79b00;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="800" width="760" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-155" value="" style="group;fillColor=none;strokeColor=#d79b00;" vertex="1" connectable="0" parent="1">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-155" value="" style="group;fillColor=none;strokeColor=#d79b00;container=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="540" y="860" width="220" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-156" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#d79b00;fillColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-155">
-          <mxGeometry width="220" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-157" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;关键难点&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-155">
-          <mxGeometry width="220" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-158" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Softmax同态不友好&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#ffe6cc;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-155">
-          <mxGeometry x="19.92623188405797" y="60" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-159" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;乘法深度不足&amp;amp;噪声累加&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#ffe6cc;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-155">
-          <mxGeometry x="19.92623188405797" y="130" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-160" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;模型参数泄漏&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#ffe6cc;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-155">
-          <mxGeometry x="19.92623188405797" y="200" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-59" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;dashPattern=1 1;strokeColor=#82b366;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="450" width="760" height="340" as="geometry" />
@@ -446,6 +431,21 @@
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-177" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;语义相似度低共享失败&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#f8cecc;strokeColor=none;fontStyle=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="559.9962318840579" y="1390" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-156" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#d79b00;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="540" y="860" width="220" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-157" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;关键难点&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="540" y="860" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-158" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Softmax同态不友好&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#ffe6cc;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="559.926231884058" y="920" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-159" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;乘法深度不足&amp;amp;噪声累加&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#ffe6cc;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="559.926231884058" y="990" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-160" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;模型参数泄漏&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#ffe6cc;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="559.926231884058" y="1060" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
