@@ -14,7 +14,7 @@
           <mxGeometry x="80" y="100" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-59" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;dashPattern=1 1;strokeColor=#82b366;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="40" y="450" width="760" height="360" as="geometry" />
+          <mxGeometry x="40" y="450" width="760" height="340" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-60" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=none;fillColor=#d5e8d4;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="460" width="680" height="40" as="geometry" />
@@ -130,7 +130,7 @@
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-130" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;关键难点&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-128">
           <mxGeometry width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-131" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;去噪网络&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-128">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-131" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;网络层次深/去噪步数多&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-128">
           <mxGeometry x="19.92623188405797" y="60" width="180.1449275362319" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-132" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;传统卷积方法乘法多&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-128">
