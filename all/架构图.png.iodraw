@@ -106,11 +106,11 @@
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-115" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;判定去噪网络不可逆点&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="320" y="570" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-116" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;判定去噪网络不可逆点&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-116" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;高效同态卷积计算&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="320" y="630" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-117" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;判定去噪网络不可逆点&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="315" y="740" width="200" height="40" as="geometry" />
+          <mxGeometry x="320" y="690" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
