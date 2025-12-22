@@ -62,10 +62,10 @@
           <mxGeometry x="20" y="60" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-116" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;同态卷积计算&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-118">
-          <mxGeometry x="20" y="120" width="200" height="40" as="geometry" />
+          <mxGeometry x="20" y="130" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-117" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;非线性函数近似&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-118">
-          <mxGeometry x="20" y="180" width="200" height="40" as="geometry" />
+          <mxGeometry x="20" y="200" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-119" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="80" y="150" width="280" height="280" as="geometry" />
@@ -120,6 +120,24 @@
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-53" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;隐私保护技术&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-120">
           <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-121" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="304" y="520" width="240" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-122" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#82b366;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-121">
+          <mxGeometry width="240" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-123" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;保护对象&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-121">
+          <mxGeometry width="225" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-124" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;判定去噪网络不可逆点&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-121">
+          <mxGeometry x="20" y="60" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-125" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;同态卷积计算&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-121">
+          <mxGeometry x="20" y="130" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-126" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;非线性函数近似&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-121">
+          <mxGeometry x="20" y="200" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
