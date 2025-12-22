@@ -259,7 +259,7 @@
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-174" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;关键难点&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-172">
           <mxGeometry width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-175" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;同态隐私保护效率低&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;去噪步骤重复&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#f8cecc;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-172">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-175" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;同态隐私保护吞吐量低&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;去噪步骤重复&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#f8cecc;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-172">
           <mxGeometry x="19.92623188405797" y="60" width="180.1449275362319" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-176" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;乘法深度不足&amp;amp;噪声累加&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#f8cecc;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-172">
