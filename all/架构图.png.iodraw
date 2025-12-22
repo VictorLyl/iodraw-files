@@ -58,7 +58,7 @@
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-111" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#82b366;fillColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-118">
           <mxGeometry width="220" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-112" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;关键方法&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-118">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-112" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;关键&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;研究点&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-118">
           <mxGeometry width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-115" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;判定去噪网络不可逆点&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-118">
@@ -295,7 +295,7 @@
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-211" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#9673a6;fillColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-210">
           <mxGeometry width="220" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-212" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;关键方法&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-210">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-212" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;关键&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;研究点&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-210">
           <mxGeometry width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-213" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Softmax&lt;span style=&quot;background-color: initial;&quot;&gt;近似改造&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#e1d5e7;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-210">
