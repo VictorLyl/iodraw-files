@@ -20,7 +20,7 @@
           <mxGeometry x="90" y="170" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-14" value="技术（DDPM/DDIM/PLMS）" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="200" width="240" height="30" as="geometry" />
+          <mxGeometry x="90" y="260" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
