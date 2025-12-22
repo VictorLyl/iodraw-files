@@ -250,26 +250,8 @@
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-171" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;dashPattern=1 1;strokeColor=#b85450;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="1150" width="760" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-172" value="" style="group;fillColor=none;strokeColor=#b85450;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="540" y="1210" width="420" height="560" as="geometry" />
-        </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-173" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#b85450;fillColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-172">
-          <mxGeometry width="220" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-174" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;关键难点&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-172">
-          <mxGeometry width="220" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-175" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;同态隐私保护降低吞吐量&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#f8cecc;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-172">
-          <mxGeometry x="19.99623188405797" y="60" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-176" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;共享比例过高&lt;span style=&quot;background-color: initial;&quot;&gt;共享失败&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#f8cecc;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-172">
-          <mxGeometry x="19.99623188405797" y="127.78" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-177" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;语义相似度低共享失败&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#f8cecc;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-172">
-          <mxGeometry x="19.99623188405797" y="197.78" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-197" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;dashPattern=1 1;strokeColor=#9673a6;fillColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-172">
-          <mxGeometry x="-340" y="220" width="760" height="340" as="geometry" />
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-172" value="" style="group;fillColor=none;strokeColor=#b85450;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="540" y="1210" width="220" height="270" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-178" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#b85450;fillColor=#f8cecc;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="1160" width="680" height="40" as="geometry" />
@@ -303,6 +285,9 @@
             <mxPoint x="514" y="1370" as="sourcePoint" />
             <mxPoint x="570" y="1370" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-197" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;dashPattern=1 1;strokeColor=#9673a6;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="1570" width="760" height="340" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-198" value="" style="group;fillColor=none;strokeColor=#9673a6;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="540" y="1630" width="220" height="270" as="geometry" />
@@ -449,6 +434,21 @@
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-238" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;语义相似度算法&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#f8cecc;strokeColor=none;fontStyle=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="319.996231884058" y="1450.0022222222221" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-173" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=default;fillColor=none;fontStyle=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1210" width="220" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-174" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;关键难点&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1210" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-175" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;同态隐私保护降低吞吐量&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#f8cecc;strokeColor=none;fontStyle=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="559.9962318840579" y="1270" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-176" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;共享比例过高&lt;span style=&quot;background-color: initial;&quot;&gt;共享失败&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#f8cecc;strokeColor=none;fontStyle=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="559.9962318840579" y="1330" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-177" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;语义相似度低共享失败&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#f8cecc;strokeColor=none;fontStyle=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="559.9962318840579" y="1390" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
