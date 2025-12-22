@@ -532,8 +532,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-316" value="&lt;font color=&quot;#b85450&quot;&gt;效率提升&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1210" width="60" height="30" as="geometry" />
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-316" value="&lt;font color=&quot;#b85450&quot;&gt;效率提升&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="780" y="1210" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
