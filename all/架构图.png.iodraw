@@ -278,10 +278,10 @@
           <mxGeometry x="80" y="1210" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-182" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#b85450;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="80" y="1360" width="200" height="120" as="geometry" />
+          <mxGeometry x="80" y="1390" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-183" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;保护对象&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="80" y="1360" width="200" height="40" as="geometry" />
+          <mxGeometry x="80" y="1390" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-184" value="" style="group;fillColor=none;strokeColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="300" y="1210" width="220" height="270" as="geometry" />
