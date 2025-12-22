@@ -91,7 +91,7 @@
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-119" value="" style="group;fillColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="80" y="150" width="280" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#6C8EBF;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-119">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#6C8EBF;fontStyle=1;fillColor=none;" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-119">
           <mxGeometry width="280" height="280" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-14" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;伪线性多步采样法PLMS&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-119">
