@@ -22,8 +22,8 @@
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-12" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="90" y="200" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-13" value="架构（DDPM/DDIM/PLMS）" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="240" width="240" height="30" as="geometry" />
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-13" value="DDPM" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-14" value="技术（DDPM/DDIM/PLMS）" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="480" y="350" width="240" height="30" as="geometry" />
