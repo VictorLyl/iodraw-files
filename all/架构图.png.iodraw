@@ -13,7 +13,7 @@
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;理论基础&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="80" y="110" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#99CCFF;" vertex="1" parent="1">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="90" y="160" width="280" height="280" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;扩散模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#66B2FF;strokeColor=#6c8ebf;" vertex="1" parent="1">
