@@ -250,9 +250,6 @@
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-171" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;dashPattern=1 1;strokeColor=#b85450;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="1150" width="760" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-172" value="" style="group;fillColor=none;strokeColor=#b85450;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="540" y="1210" width="220" height="270" as="geometry" />
-        </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-178" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#b85450;fillColor=#f8cecc;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="1160" width="680" height="40" as="geometry" />
         </mxCell>
