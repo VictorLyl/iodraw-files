@@ -25,7 +25,7 @@
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-8" value="架构（DDPM/DDIM/PLMS）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="290" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-9" value="采样方法（DDPM/DDIM/PLMS）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-9" value="技术（DDPM/DDIM/PLMS）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="330" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-10" value="采样方法（DDPM/DDIM/PLMS）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
