@@ -101,7 +101,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-80" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="200" y="560" width="90" height="77.5" as="geometry" />
+          <mxGeometry x="200" y="562.5" width="90" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-72" value="&lt;p style=&quot;line-height: 30%;&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font color=&quot;#82b366&quot; style=&quot;font-size: 16px;&quot;&gt;诚实但好奇&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 30%;&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font color=&quot;#82b366&quot; style=&quot;font-size: 16px;&quot;&gt;服务器&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;fillColor=none;strokeColor=none;" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-80">
           <mxGeometry y="37.5" width="90" height="40" as="geometry" />
