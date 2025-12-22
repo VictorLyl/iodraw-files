@@ -62,10 +62,10 @@
           <mxGeometry x="25.00333333333333" y="60" width="188.33333333333334" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-116" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;同态卷积计算&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-118">
-          <mxGeometry x="18.833333333333332" y="130" width="188.33333333333334" height="40" as="geometry" />
+          <mxGeometry x="25.00333333333333" y="130" width="188.33333333333334" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-117" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;非线性函数近似&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-118">
-          <mxGeometry x="18.833333333333332" y="200" width="188.33333333333334" height="40" as="geometry" />
+          <mxGeometry x="25.00333333333333" y="200" width="188.33333333333334" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-119" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="80" y="150" width="280" height="280" as="geometry" />
