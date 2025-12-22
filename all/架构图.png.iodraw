@@ -62,7 +62,7 @@
           <mxGeometry x="200" y="320" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-59" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;dashPattern=1 1;strokeColor=#82b366;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="40" y="450" width="760" height="350" as="geometry" />
+          <mxGeometry x="40" y="450" width="760" height="360" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-60" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=none;fillColor=#d5e8d4;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="460" width="680" height="40" as="geometry" />
@@ -72,30 +72,6 @@
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-63" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;环境与安全假设&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="90" y="510" width="210" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-64" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#82b366;fillColor=#d5e8d4;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="460" y="510" width="280" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-65" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;自举机制Bootstrapping&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="480" y="680" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-66" value="&lt;p data-pm-slice=&quot;1 1 []&quot; style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;CKKS同态加密&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="570" y="570" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-67" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="510" y="590" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-68" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;同态加密&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#82b366;fillColor=#d5e8d4;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="480" y="602.5" width="80" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-69" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;门限pallier同态加密&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="570" y="630" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-70" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;代理重加密&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="480" y="735" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-71" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;隐私保护技术&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="460" y="510" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=#82B366;fontStyle=1" edge="1" parent="1" source="jCbjzDpZ-cm63IOYhHo_-98" target="jCbjzDpZ-cm63IOYhHo_-99">
           <mxGeometry relative="1" as="geometry">
@@ -120,6 +96,15 @@
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-99" value="诚实但好奇&#xa;服务器" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;fontSize=16;fontColor=#82B366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="225" y="560" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-111" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#82b366;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="315" y="510" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-112" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;保护对象&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="315" y="510" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-115" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;代理重加密&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#dae8fc;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="560" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
