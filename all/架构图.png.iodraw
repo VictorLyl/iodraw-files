@@ -85,7 +85,7 @@
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-116" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;高效同态卷积&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-118">
           <mxGeometry x="19.92623188405797" y="130" width="180.1449275362319" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-117" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;非线性函数近似&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-118">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-117" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;非线性函数近似&lt;span style=&quot;background-color: initial;&quot;&gt;改造&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-118">
           <mxGeometry x="19.92623188405797" y="200" width="180.1449275362319" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-119" value="" style="group;fillColor=none;" vertex="1" connectable="0" parent="1">
@@ -211,7 +211,7 @@
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-152" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;安全跨注意力机制&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#ffe6cc;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-149">
           <mxGeometry x="19.92623188405797" y="60" width="180.1449275362319" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-153" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Softmax&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#ffe6cc;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-149">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-153" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Softmax&lt;span style=&quot;background-color: initial;&quot;&gt;近似改造&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#ffe6cc;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-149">
           <mxGeometry x="19.92623188405797" y="130" width="180.1449275362319" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-154" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;盲化模型参数&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#ffe6cc;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-149">
