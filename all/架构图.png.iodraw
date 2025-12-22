@@ -447,7 +447,7 @@
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-154" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;模型参数&lt;span style=&quot;background-color: initial;&quot;&gt;盲化&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#ffe6cc;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-242">
           <mxGeometry x="19.926231884057984" y="200" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-243" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;语义相似度低共享失败&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#f8cecc;strokeColor=none;fontStyle=1;container=0;" vertex="1" parent="1">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-243" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;同态密文空间不一致&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#f8cecc;strokeColor=none;fontStyle=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="559.9962318840579" y="1450" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=#b85450;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;" edge="1" parent="1" source="jCbjzDpZ-cm63IOYhHo_-238" target="jCbjzDpZ-cm63IOYhHo_-243">
