@@ -40,7 +40,7 @@
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-60" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=none;fillColor=#d5e8d4;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="460" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-61" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#82b366;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-61" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#82b366;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="510" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-63" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;安全假设&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
@@ -52,7 +52,7 @@
             <mxPoint x="215" y="582.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jCbjzDpZ-cm63IOYhHo_-84" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#82b366;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="jCbjzDpZ-cm63IOYhHo_-84" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#82b366;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="660" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-85" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;保护对象&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
