@@ -80,7 +80,7 @@
           <mxGeometry width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-115" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;判定去噪网络不可逆点&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-118">
-          <mxGeometry x="19.92623188405797" y="60" width="179" height="40" as="geometry" />
+          <mxGeometry x="19.92623188405797" y="60" width="220" height="270" as="geometry" />
         </mxCell>
         <mxCell id="jCbjzDpZ-cm63IOYhHo_-116" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;高效同态卷积方法&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="jCbjzDpZ-cm63IOYhHo_-118">
           <mxGeometry x="19.92623188405797" y="130" width="180.1449275362319" height="40" as="geometry" />
